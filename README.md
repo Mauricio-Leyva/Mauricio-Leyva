@@ -11,9 +11,9 @@ const Mauricio = {
 }
 
 You can find me 🌎:
-- [Blog](https://mauricioleyva.ml/)
-- [Twitter](https://twitter.com/TecMau287)
-- [Instagram](https://www.instagram.com/mauricio_leyva16/)
+-[Blog](https://mauricioleyva.ml/)
+-[Twitter](https://twitter.com/TecMau287)
+-[Instagram](https://www.instagram.com/mauricio_leyva16/)
 
 ⭐️ From [@Mauricio-Leyva](https://github.com/Mauricio-Leyva)
 
