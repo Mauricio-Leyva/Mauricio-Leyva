@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+```javascript
+const Mauricio = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Node],
+}
+
+⭐️ From [@Mauricio-Leyva](https://github.com/Mauricio-Leyva)
+
+
+
+
 <!--
 **Mauricio-Leyva/Mauricio-Leyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
