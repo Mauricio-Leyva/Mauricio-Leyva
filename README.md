@@ -2,6 +2,10 @@
 
 ![Mauricio leyva](https://user-images.githubusercontent.com/82603534/181445139-7844e467-8627-4371-b9af-26730438fa4e.png)
 
+<a href="https://twitter.com/TecMau287">
+  <img align="right" alt="Mauricio Leyva | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 ```javascript
 const Mauricio = {
   pronouns: "He" | "Him",
