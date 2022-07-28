@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Mauricio 👋👨‍💻
+
+![Mauricio leyva](https://user-images.githubusercontent.com/82603534/181445139-7844e467-8627-4371-b9af-26730438fa4e.png)
 
 ```javascript
 const Mauricio = {
