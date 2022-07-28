@@ -1,7 +1,7 @@
 ![Mauricio leyva](https://user-images.githubusercontent.com/82603534/181445139-7844e467-8627-4371-b9af-26730438fa4e.png)
 
 <h1 align="center">Hi 👋, I'm Mauricio Leyva</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate web developer from Mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/tecmau287" target="blank"><img src="https://img.shields.io/twitter/follow/tecmau287?logo=twitter&style=for-the-badge" alt="tecmau287" /></a> </p>
 
