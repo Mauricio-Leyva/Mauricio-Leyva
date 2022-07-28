@@ -15,6 +15,8 @@ You can find me 🌎:
 -[Twitter] = https://twitter.com/TecMau287
 -[Instagram] = https://www.instagram.com/mauricio_leyva16/
 
+[![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Leyva)](https://github.com/Mauricio-Leyva/github-readme-stats)
+
 ⭐️ From [@Mauricio-Leyva](https://github.com/Mauricio-Leyva)
 
 
