@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tecmau287" target="blank"><img src="https://img.shields.io/twitter/follow/tecmau287?logo=twitter&style=for-the-badge" alt="tecmau287" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://mauricioleyva.ml/index.html)
+- 🔭 I’m currently working on LUNA Transcript
 
 - 🌱 I’m currently learning **Python and React**
 
