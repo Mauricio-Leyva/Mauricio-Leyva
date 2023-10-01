@@ -1,4 +1,4 @@
-![Mauricio leyva](https://user-images.githubusercontent.com/82603534/181445139-7844e467-8627-4371-b9af-26730438fa4e.png)
+
 
 <h1 align="center">Hi 👋, I'm Mauricio Leyva</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
