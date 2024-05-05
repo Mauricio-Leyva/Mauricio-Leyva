@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python and React**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://mauricio-leyva.github.io/portafolio/)
-
 - 📫 How to reach me **mauricioleyvag@gmail.com**
 
 <h3 align="left">Connect with me 🌎:</h3>
