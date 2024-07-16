@@ -31,8 +31,8 @@
 const Mauricio = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Python],
-  tools: [React, Node],
-  passions: ['performance web', 'web development', 'videogames']
+  tools: [React, Node, Astro],
+  passions: ['Performance web', 'Web development', 'Videogames']
 }
 
 
