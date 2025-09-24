@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-leyva&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-leyva" /> </p>
 <p align="left"> <a href="https://twitter.com/tecmau287" target="blank"><img src="https://img.shields.io/twitter/follow/tecmau287?logo=twitter&style=for-the-badge" alt="tecmau287" /></a> </p>
 
-- 🔭 I’m currently working on [Lyrics4Rushers](https://lyrics4rushers.pages.dev) and my own social network
+- 🔭 I’m currently working on [Lyrics4Rushers](https://lyrics4rushers.pages.dev)
 
 - 🌱 I’m currently learning **Python**
 
