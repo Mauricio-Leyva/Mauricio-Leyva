@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mauricio Leyva</h1>
-<h3 align="center">A passionate Student Software Engineer from Mexico</h3>
+<h3 align="center">A Student Software Engineer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-leyva&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-leyva" /> </p>
 <p align="left"> <a href="https://twitter.com/tecmau287" target="blank"><img src="https://img.shields.io/twitter/follow/tecmau287?logo=x&style=for-the-badge" alt="tecmau287" /></a> </p>
