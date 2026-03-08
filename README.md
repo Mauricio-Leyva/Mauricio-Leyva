@@ -1,19 +1,29 @@
-
-
 <h1 align="center">Hi 👋, I'm Mauricio Leyva</h1>
-<h3 align="center">A Student Software Engineer from Mexico</h3>
+<h3 align="center">Software Engineering Student 🇲🇽</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-leyva&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-leyva" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mauricio-leyva&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-leyva views" />
+  <a href="https://x.com/tecmau287" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/tecmau287?logo=x&style=flat&color=black" alt="tecmau287" />
+  </a>
+</p>
 
-- I’m currently working on CEDH Chihuahua
+---
 
-- I’m currently learning **Python**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me 🌎:</h3>
-<p align="left"> <a href="https://x.com/tecmau287" target="blank"><img src="https://img.shields.io/twitter/follow/tecmau287?logo=x&style=for-the-badge" alt="tecmau287" /></a> </p>
+- Currently working in the IT Department at **CEDH Chihuahua**.
+- **Software Engineering** student at **UACH**, currently gearing up for graduation!
+- Huge **Linux** enthusiast (currently daily driving **CachyOS**) and passionate about all things tech. I enjoy working across the stack as long as the project is interesting and challenging.
+- Deepening my knowledge in **Python**.
+- Want to chat or collaborate? Hit me up on **[X (Twitter)](https://x.com/tecmau287)**!
 
-<h3 align="left">Languages and Tools:</h3>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -27,7 +37,14 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+</p>
 
+---
 
-⭐️ From [@Mauricio-Leyva](https://github.com/Mauricio-Leyva)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mauricio-Leyva&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mauricio-Leyva&theme=dark&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="170" />
+</p>
