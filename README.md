@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Leyva</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Linux+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Linux+%26+Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,10 +10,8 @@
 ### About Me
 
 - Currently working in the IT Department at **CEDH Chihuahua**.
-- **Software Engineering** student at **UACH**, currently gearing up for graduation!
 - Huge **Linux** enthusiast (currently daily driving **CachyOS**) and passionate about all things tech. I enjoy working across the stack as long as the project is interesting and challenging.
 - Deepening my knowledge in **Python**.
-- Want to chat or collaborate? Hit me up on **[X (Twitter)](https://x.com/tecmau287)**!
 
 ---
 
