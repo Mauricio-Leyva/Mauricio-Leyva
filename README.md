@@ -11,7 +11,7 @@
 
 Fullstack Software Engineer & Linux enthusiast based in Mexico. I build modern, resilient, and human-centered digital products from scratch.
 
-Recently led the complete end-to-end modernization of the **CEDH Chihuahua** digital platform:
+Recently led the complete end-to-end modernization of the [**CEDH Chihuahua**](https://cedhchihuahua.org.mx/) digital platform:
 - Architected a decoupled, high-performance public portal using **Astro**, **Vue**, **TypeScript**, and **Tailwind CSS**.
 - Developed the internal backoffice & content management system powered by **Symfony**, **PostgreSQL**, and **Docker**.
 - Reduced citizen friction by designing accessible 4-step complaint workflows and geospatial regional directories.
