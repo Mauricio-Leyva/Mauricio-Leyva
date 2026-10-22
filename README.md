@@ -7,11 +7,20 @@
 
 ---
 
-### About Me
+### Hey there, I'm Mauricio!
 
-- Currently working in the IT Department at **CEDH Chihuahua**.
-- Huge **Linux** enthusiast (currently daily driving **CachyOS**) and passionate about all things tech. I enjoy working across the stack as long as the project is interesting and challenging.
-- Deepening my knowledge in **Python**.
+Fullstack Software Engineer & Linux enthusiast based in Mexico. I build modern, resilient, and human-centered digital products from scratch.
+
+Recently led the complete end-to-end modernization of the **CEDH Chihuahua** digital platform:
+- Architected a decoupled, high-performance public portal using **Astro**, **Vue**, **TypeScript**, and **Tailwind CSS**.
+- Developed the internal backoffice & content management system powered by **Symfony**, **PostgreSQL**, and **Docker**.
+- Reduced citizen friction by designing accessible 4-step complaint workflows and geospatial regional directories.
+
+#### Tech Stack & Tooling:
+- **Frontend:** Astro, Vue.js, TypeScript, Tailwind CSS, HTML5/Semantics
+- **Backend & Data:** PHP (Symfony), PostgreSQL, REST APIs
+- **DevOps & Sysadmin:** Linux (Arch/Debian), Docker, Nginx, VPS management
+- **Core Focus:** Web Performance, Accessible UI/UX, Decoupled Architectures
 
 ---
 
