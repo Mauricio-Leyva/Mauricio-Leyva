@@ -18,7 +18,7 @@ Recently led the complete end-to-end modernization of the [**CEDH Chihuahua**](h
 
 #### Tech Stack & Tooling:
 - **Frontend:** Astro, Vue.js, TypeScript, Tailwind CSS, HTML5/Semantics
-- **Backend & Data:** PHP (Symfony), PostgreSQL, REST APIs
+- **Backend & Data:** GO, Python, PostgreSQL, REST APIs
 - **DevOps & Sysadmin:** Linux (Arch/Debian), Docker, Nginx, VPS management
 - **Core Focus:** Web Performance, Accessible UI/UX, Decoupled Architectures
 
